@@ -5,7 +5,7 @@ This project trains the humanoid agent using SAC (Soft Actor Critic) algorithm.
 
 ## Overview of algorithm:
 - Soft Actor Critic (SAC) is an algorithm that optimizes a stochastic policy in an off-policy way.
-- It incorporates the clipped double-Q trick.
+- It incorporates the clipped double-Q trick of TD3 algorithm.
 - A central feature of SAC is entropy regularization.
 
 
